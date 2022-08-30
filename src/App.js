@@ -5,7 +5,7 @@ import shortid from 'shortid';
 import Container from './components/Container';
 import TodoList from './components/TodoList';
 import { TodoEditor } from './components/TodoEditor';
-import { Counter } from './components/TodoEditor';
+// import { Counter } from './components/TodoEditor';
 import Filter from './components/Filter';
 // import Form from './components/Form';
 import initialTodos from './todos.json';
